@@ -45,6 +45,12 @@
             android:textStyle="bold"
             android:textColor="@color/white"
             android:gravity="end"/>
+        <Button
+            android:id="@+id/startBTN"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Начать"
+            android:visibility="gone"/>
 
     </LinearLayout>
 
